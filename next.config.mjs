@@ -5,6 +5,8 @@ const nextConfig = {
 
   output: "export",
 
+  basePath: "/100acress",
+
   images: {
     unoptimized: true,
   },
