@@ -61,7 +61,7 @@ import Footer from "@/components/layout/footer/Footer";
 import ScrollToTop from "@/components/common/ScrollToTop";
 
 export const metadata = {
-  title: "Atrium Estates",
+  title: "100acress.com",
   description: "Trusted Real Estate Solutions",
 };
 
