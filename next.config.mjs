@@ -7,6 +7,8 @@ const nextConfig = {
 
   basePath: "/100acress",
 
+  assetPrefix: "/100acress/",
+
   images: {
     unoptimized: true,
   },
