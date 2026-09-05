@@ -134,7 +134,7 @@ export default function DesktopNavbar() {
               <Link href="/" className="px-2.5 py-1 rounded-md flex items-center shadow-xs transition-colors">
                 <div className="relative h-7 w-36">
                   <Image
-                    src="/images/logos/100acresswhite.webp"
+                    src="./images/logos/100acresswhite.webp"
                     alt="100acress.com"
                     fill
                     priority
@@ -396,7 +396,7 @@ export default function DesktopNavbar() {
                 <Link href="/" className="px-2.5 py-1 rounded-md flex items-center shadow-xs transition-colors">
                   <div className="relative h-7 w-36">
                     <Image
-                      src="/images/logos/100acresswhite.webp"
+                      src="./images/logos/100acresswhite.webp"
                       alt="100acress.com"
                       fill
                       priority
@@ -701,7 +701,7 @@ export default function DesktopNavbar() {
               </div>
 
               <div className="text-[11px] text-slate-500 leading-relaxed">
-                <p>Toll Free Number: <span className="font-semibold text-slate-700">1800 41 99099</span>.</p>
+                <p>Toll Free Number: <span className="font-semibold text-slate-700">+91 8500 900 100</span>.</p>
                 <p>
                   For international numbers{" "}
                   <Link href="/contact-international" className="font-bold text-[#e11924] underline">
