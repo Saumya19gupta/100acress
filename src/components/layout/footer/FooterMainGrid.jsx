@@ -18,7 +18,7 @@ export default function FooterMainGrid() {
             </span> */}
 
             <Image
-  src="/images/logos/100acressredbg.png"
+  src="./images/logos/100acressredbg.png"
   alt="100acress"
   width={180}
   height={50}

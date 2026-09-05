@@ -134,7 +134,7 @@ export default function DesktopNavbar() {
               <Link href="/" className="px-2.5 py-1 rounded-md flex items-center shadow-xs transition-colors">
                 <div className="relative h-7 w-36">
                   <Image
-                    src="/images/logos/100acresswhite.webp"
+                    src="./images/logos/100acresswhite.webp"
                     alt="100acress.com"
                     fill
                     priority
@@ -396,7 +396,7 @@ export default function DesktopNavbar() {
                 <Link href="/" className="px-2.5 py-1 rounded-md flex items-center shadow-xs transition-colors">
                   <div className="relative h-7 w-36">
                     <Image
-                      src="/images/logos/100acresswhite.webp"
+                      src="./images/logos/100acresswhite.webp"
                       alt="100acress.com"
                       fill
                       priority

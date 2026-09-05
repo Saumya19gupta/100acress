@@ -37,8 +37,8 @@ export default function MobileNavbar() {
 
           <Link href="/" className="flex items-center">
   <Image
-    src="/images/logos/100acressred.webp"
-    alt="MagicBricks"
+    src="./images/logos/100acressred.webp"
+    alt="100acress"
     width={180}
     height={50}
     priority
